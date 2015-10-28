@@ -6,7 +6,7 @@ This is python code I wrote while learning a bit about [RabbitMQ](https://rabbit
 The directories `partN_...` contain code I wrote while following the rabbitmq
 python [tutorial](https://www.rabbitmq.com/tutorials/tutorial-one-python.html).
 That tutorial is written for the `pika` library, but I adapted it for the
-[py-amqp](http://amqp.readthedocs.com) library instead.
+[py-amqp](http://amqp.readthedocs.org) library instead.
 
 The `rabbits_and_warrens` directory contains code I wrote while following
 [Rabbits and warrens](http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/),
